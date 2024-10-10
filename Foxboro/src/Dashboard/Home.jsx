@@ -47,7 +47,7 @@ function Home() {
     return (
         <div>
             <Grid2 container display={'flex'} justifyContent={'space-evenly'} bgcolor={'#3c3154'} p={2}>
-                <Typography variant='h4' color='white'>Foxboro Instrument</Typography>
+                <Typography variant='h4' color='white'>Foxboro Instruments</Typography>
                 <Grid2 size={{ xs: 12, md: 12, lg: 5 }}>
                     <TextField
                         variant="outlined"

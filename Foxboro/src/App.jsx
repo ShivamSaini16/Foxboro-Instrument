@@ -15,7 +15,7 @@ function App() {
 
   return (
     <>
-      <Suspense fallback={<div>Loading...</div>}>
+      <Suspense fallback={<div>Loadings...</div>}>
         {route}
       </Suspense>
     </>
